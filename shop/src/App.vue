@@ -6,6 +6,7 @@ import Banner  from  './components/Banner.vue';
 import LatestProduct from './components/LatestProduct.vue';
 import MostSellProduct from './components/MostSellProduct.vue';
 import BannerPromote from './components/BannerPromote.vue';
+import Footer from './components/Footer.vue';
 </script>
 
 <template>
@@ -16,6 +17,7 @@ import BannerPromote from './components/BannerPromote.vue';
   <LatestProduct/>
   <MostSellProduct/>
   <BannerPromote/>
+  <Footer/>
   
 </template>
 
